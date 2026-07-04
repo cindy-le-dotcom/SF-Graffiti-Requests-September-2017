@@ -36,22 +36,3 @@ I would also want to compare response times across neighborhoods, since higher r
 
 Overall, this dataset provides insight into both graffiti reports and reporting behavior. While it highlights where reports are concentrated, it should not be interpreted as a direct measure of where graffiti is most prevalent because reporting activity, visibility, and community engagement also influence the results.
 
-## Figure 1
-
-![Neighborhood Graph](neighborhoods.png)
-
-*Figure 1. 311 Graffiti Reports by Neighborhood (September 2017). Mission District accounted for approximately 21% of all reported cases.*
-
-Source: San Francisco Open Data (DataSF)
-
----
-
-## Figure 2
-
-![Property Graph](property_types.png)
-
-*Figure 2. 311 Graffiti Reports by Property Type (September 2017). Other (Additional Details Below), Commercial Building, Pole, and Mailbox were the most frequently reported property types.*
-
-Source: San Francisco Open Data (DataSF)
-(https://data.sfgov.org/City-Infrastructure/Graffiti-cases-September-2017/jpay-t9xt/about_data)
-
