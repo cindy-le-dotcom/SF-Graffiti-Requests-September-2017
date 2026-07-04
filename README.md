@@ -6,6 +6,10 @@ The data for this analysis comes from the San Francisco Open Data Portal (DataSF
 
 Since it is an official city dataset, it is generally reliable, but it only captures what gets reported, not what actually exists. This means neighborhoods with more active reporting or higher visibility can look like they have more graffiti than they actually do. It also does not show severity, since a small sticker and a large mural are counted the same, and it only reflects one month of data, which limits long-term conclusions.
 
+## Methods
+
+I imported the September 2017 Graffiti Cases dataset into Google Sheets and cleaned the request type labels to improve readability. I then created pivot tables to summarize the number of graffiti reports by neighborhood and request type. These pivot tables were used to create two bar charts that visualize the distribution of reports across neighborhoods and property types.
+
 ## Analysis
 
 In my analysis, I used pivot tables to identify which neighborhoods and property types had the most graffiti reports. The Mission District had the highest number of reports, with 1,190 out of 5,570 total cases, while South of Market had the second-highest total with 318 reports. Most other neighborhoods had considerably fewer reports, showing that graffiti reports were not evenly distributed across the city. The Mission District alone accounted for about 21% of all reported graffiti cases, indicating that a large share of reports was concentrated in a single neighborhood.
